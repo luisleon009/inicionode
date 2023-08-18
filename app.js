@@ -8,10 +8,10 @@ console.log(cowsay.say({
 }));
 
 
-
+/*
 const { frutas ,money}= require ('./frutas')
 
-fruits.foreach(fruta => {
+frutas.foreach(fruta => {
     console.log('La fruta es: ', fruta)
 })
 console.log('Dinero: ', money)
